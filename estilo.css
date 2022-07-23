@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(75, 69, 80);
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    margin: auto;
+    width: 500px;
+    height: 350px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow:  black;
+}
+
+#calc {
+    padding: 20px;
+    font-weight: bolder;
+
+}
+
+#seltab {
+    margin-left: 10px;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
+
